@@ -1,0 +1,2 @@
+Hi, I am Pratham Gupta. I am proficient in Python. Currently learning C++. 
+Some of my past projects are [sudoku solver using Tensorflow](https://github.com/PrathamGupta06/sudoku-solver), [CBSE Result Analyzer](https://github.com/PrathamGupta06/CBSE-result-text-to-excel-converter-and-analyzer).
